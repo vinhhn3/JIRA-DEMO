@@ -33,3 +33,7 @@ Activate the Report Feature
 Then, you can see a lot of Reports
 
 ![alt text](image-9.png)
+
+Config the EPIC to see the timeline
+
+![alt text](image-10.png)
